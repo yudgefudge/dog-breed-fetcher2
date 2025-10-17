@@ -38,7 +38,7 @@ As with the NumberTriangle assignment, you need to continue to demonstrate use o
 ---
 
 ## Submission
-Submit the URL to your repo as you did for the NumberTriangle homework.
+Submit the URL to your repo as you did for the NumberTriangle homework. Okay!
 
 ---
 
